@@ -30,6 +30,9 @@ The aim of this experiment is to apply heuristic evaluation of existing websites
 
 9.End.
 
+<img width="1536" height="1024" alt="Amazon vs Instagram_ Key Differences" src="https://github.com/user-attachments/assets/740de913-2003-44a7-b006-3d97c3993b9a" />
+
+
 ## Heuristic Evaluation of Existing Apps
 
 We analysed two well-known apps: Amazon (e-commerce) and Instagram (social media). Using Jakob Nielsen’s usability heuristics, we looked at how each app handles visibility, navigation, consistency, error prevention and overall design. Both apps give smooth experiences in their fields but differ in how they organise content, guide users and manage tasks.
